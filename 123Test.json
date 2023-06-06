@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "123Test",
-    "description": "",
+    "description": "descGitHub",
     "version": "1"
   },
   "tags": [],
